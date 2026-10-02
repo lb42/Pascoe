@@ -31,10 +31,10 @@
     and not all distinctions thus made are preserved by the encoded version. This is partly because
     the plain text version is frequently inconsistent in how well it represents these, sometimes
     using entity references such as &amp;quot, sometimes using straight (ambiguous) quotation marks
-    such as " or ', sometimes prefering directional quotation marks, such as <term>‘ and ’</term> or
+    such as " or ', sometimes preferring directional quotation marks, such as <term>‘ and ’</term> or
     their double equivalents. Frequently quotation marks are simply omitted, and the transcription
     does not distinguish italicised stretches at all. It is however remarkably accurate, and I have
-    not identified any significant number of of OCR errors. </p>
+    not identified any significant number of OCR errors. </p>
    <p>In this version I have tried to standardize the more useful distinctions which I think the
     original typography intended to convey, as follows: <list>
      <item>Titles of works, usually given in single quotes, are tagged using <gi>title</gi>;</item>

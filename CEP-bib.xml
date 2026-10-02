@@ -162,7 +162,16 @@
       <note type="reviews">[Reviews: <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0012">Illustrated London
         News, 1887-05-07</ref>]</note></bibl>
-     <!-- 1887 3rd ed Boston -->
+     
+     <bibl><ref target="https://hdl.handle.net/2027/oxu1.603584196"><graphic
+        url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1887_thumb.jpg"/></ref>
+      <date>1887</date><title>London of to-day : an illustrated handbook for the season / by Charles Eyre Pascoe. Third year of Publication.</title>
+      <publisher>London: Sampson, Low, Marston, Searle &amp; Rivington, 1887</publisher>
+     </bibl>
+     
+     <!-- 1887 3rd ed Boston also exists in HT, not included here-->
+     
+     
      <bibl><ref target="https://hdl.handle.net/2027/nnc1.1000419826"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/joyousNeighbourhood_1887_thumb.jpg"
        /></ref>
@@ -180,6 +189,8 @@
       <note type="reviews">[Reviews: <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0013">Pall Mall Gazette,
         1888-05-17</ref>] </note></bibl>
+     
+     
      <bibl><ref target="https://hdl.handle.net/2027/uiug.30112098057190"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1889_thumb.jpg"/></ref>
       <date>1889</date><title>London of to-day; an illustrated handbook for the season 1889... The
@@ -257,6 +268,7 @@
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0014">Illustrated London News
         1890-11-15</ref>; <ref target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0015"
         >Times, 1890-10-30</ref>] </note></bibl>
+     
      <bibl><ref target="https://hdl.handle.net/2027/nyp.33433066656111"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1892_thumb.jpg"/></ref>
       <date>1892</date><title>London of today: an illustrated handbook for the season, 1892... The
@@ -264,11 +276,14 @@
        Illustrations.</title><publisher>London: Simpkin, Marshall, Hamilton, Kent, &amp; Co., Ld.,
        and all booksellers 1892</publisher>
      </bibl>
-     <bibl><ref target="https://hdl.handle.net/2027/msu.31293107610929"><graphic
+   
+     <bibl><ref target="https://hdl.handle.net/2027/oxu1.603584202"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1893_thumb.jpg"/></ref>
       <date>1893</date><title>London of To-day. An illustrated handbook for the season, 1893... The
        Ninth Annual Edition, revised and in large part re-written, and comprising additional
-       Illustrations.</title><publisher>Boston: Roberts Brothers. 1893</publisher>
+       Illustrations.</title>
+      <publisher>London: Simpkin, Marshall, Hamilton,  Kent &amp; Co., Ld.</publisher><publisher>Boston, U.S.A.: Roberts Brothers. 1893</publisher>
+      
       <note type="reviews">The <title>Quarterly Review</title> vol 182 (1895) No. 363, art III, pp 59-82 : this impressive essay, though ostensibly referring to this title, along with  Booth's <title>Life and Labour of the People in London</title>, does not explicitly discuss either work.</note>
      </bibl>
      <bibl><ref target="https://hdl.handle.net/2027/mdp.39015063934189"><graphic
@@ -279,23 +294,55 @@
      </bibl>
      <bibl><ref target="https://hdl.handle.net/2027/oxu1.605460636"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonsWorlds_1893_thumb.jpg"
-       /></ref><date>1893</date><title>London's world's fair for 1893 and Great Social, Politgical,
+       /></ref><date>1893</date><title>London's world's fair for 1893 and Great Social, Political,
        and Moral Exposition. The Spirit of the Age at a glance. Explained by Charles Eyre Pascoe
        and Illustrated by Fred. Pegram</title><publisher>London: Sampson Low, Marston &amp; Company
        Limited. </publisher><note type="reviews">[Reviews: <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0016">Daily Graphic,
         1893-05-01</ref>] </note></bibl>
+     
+     <bibl><ref target="https://hdl.handle.net/2027/oxu1.603584203"><graphic
+        url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1894_thumb.jpg"/></ref>
+      <date>1894</date><title>London of today. An illustrated Annual Publication/ Edited by Charles Eyre Pascoe.
+       The Tenth Annual Edition.</title><publisher>Simpkin, Marshall, Hamilton,  Kent &amp; Co., Ld.</publisher><publisher>Boston, U.S.A.: Roberts Brothers.</publisher><publisher> Office:  1 Creed Lane, London, E.C. </publisher>
+     </bibl>
+     
+     <bibl><ref target="https://hdl.handle.net/2027/oxu1.603584204"><graphic
+        url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1895_thumb.jpg"/></ref>
+      <date>1895</date><title>London of today. An illustrated record and a  handbook for the year 1895 / by Charles Eyre Pascoe
+       The eleventh annual edition in large part re-written, and comprising numerous additional illustrations.</title><publisher>London : Office of London of Today. 1 Creed Lane, Ludgate Hill, E.C. </publisher><publisher>Simpkin, Marshall, Hamilton,  Kent &amp; Co., Ld.</publisher><publisher>Boston: Roberts Brothers.</publisher>
+     </bibl>
+     
 
-
+     <bibl><ref target="https://hdl.handle.net/2027/oxu1.603584205"><graphic
+        url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1896_thumb.jpg"/></ref>
+      <date>1896</date><title>London of today. An illustrated handbook for the year 1896 / by Charles Eyre Pascoe
+       </title>The Twelfth Annual Edition<publisher>London : Office of London of Today. 1 Creed Lane, Ludgate Hill, E.C. </publisher><publisher>Simpkin, Marshall, Hamilton,  Kent &amp; Co., Ld., and of all Booksellers.</publisher>
+     </bibl>
+     
 
      <bibl><ref target="https://hdl.handle.net/2027/nyp.33433069355695"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1897_thumb.jpg"/></ref>
       <date>1897</date><title>London of To-day; an illustrated handbook for the season 1897. The
-       Thirteenth Yearly Edition. Shilling souvenir edition, sixtieth year of the Queen's Reign.
+       Thirteenth Yearly Edition. Shilling souvenir edition sixtieth year of the Queen's Reign.
        </title><publisher>London: Bemrose &amp; sons Limited... and at the Office of "London of
        To-Day," Hastings House, Norfolk Street, Strand, W.C.</publisher>
      </bibl>
+     
+    <!-- <bibl><ref target=""><graphic
+        url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_xxxx_thumb.jpg"/></ref>
+      <date>1898</date><title>London of today, handbook for the season xxxx / by Charles Eyre Pascoe
+       [??th edition]</title><publisher>London : Simpkin, Marshall, Hamilton, Adams, Kent &amp; Co.,
+        Ltd. Paternoster Row, E.C.</publisher>
+     </bibl>-->
+     
 
+     <bibl><ref target="https://hdl.handle.net/2027/oxu1.603584207"><graphic
+        url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1899_thumb.jpg"/></ref>
+      <date>1899</date><title>London of To-Day. An illustrated handbook for the season 1899 / by Charles Eyre Pascoe
+       The Fifteenth Yearly Edition</title><publisher>London : published at the office of "London of To-Day", Hastings House, Norfolk Street, Strand, W.C.</publisher>
+     </bibl>
+     
 
      <bibl><ref target="https://hdl.handle.net/2027/uc2.ark:/13960/t9h41xj7d"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1902_thumb.jpg"/></ref>
@@ -315,6 +362,20 @@
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0020">Gentlewoman and Modern
         Life, 1902-04-05</ref></note>
      </bibl>
+     
+     <bibl><ref target="https://books.google.com/books?id=Mx2ViSqfNu4C">
+       <!-- not available outside US --><graphic
+        url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1903_thumb.jpg"/></ref>
+      <date>1903</date><title>London of today. / An annual of the Manners, Doings, and Changes of the Town / by Charles Eyre Pascoe</title> First of a New Series - 1903.<publisher>London : Jarrold &amp; Sons</publisher>
+     </bibl>
+     
+     
+     <bibl><ref target="https://books.google.com/books?id=C5kqaxein9UC"><!-- not available outside US --><graphic
+        url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1904_thumb.jpg"/></ref>
+      <date>1904</date><title>London of to-day/ Its season and its sights / by Charles Eyre Pascoe</title>
+      The Shilling Edition. <publisher>London: Jarrold &amp; Sons.</publisher>
+     </bibl>
+     
      <bibl><ref target="https://archive.org/details/nodowningstreet02pascgoog"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/tenDowning_1908_thumb.jpg"/></ref>
       <date>1908</date>
