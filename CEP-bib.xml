@@ -23,8 +23,8 @@
  </teiHeader>
  <text>
   <body>
-   <p>This short bibliography lists  printed works attributed to
-    Pascoe which are now available online in order of publication date. Some of these titles are effectively serials, reappearing
+   <p>This short bibliography lists printed works attributed to Pascoe which are now available
+    online in order of publication date. Some of these titles are effectively serials, reappearing
     annually with some modification but essentially the same content. The list does not include all
     such re-issues. Download links are included where possible. Where a title is not available
     online, I have indicated its shelf mark in the British Library, or a link to its entry in the
@@ -67,7 +67,7 @@
      <bibl><ref target="https://books.google.co.uk/books?id=duhk8wlh6f4C"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/illusGalleries_1877_thumb.jpg"/></ref>
       <date>1877</date><title>The illustrated handbook to the supplementary art galleries of London
-       : spring exhibitions, 1877 </title><publisher>London : Hardwicke and Bogue</publisher>
+       : spring exhibitions, 1877 </title><publisher>London: Hardwicke and Bogue</publisher>
       <note type="reviews">[Review in <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0000">
         <title>the Examiner</title>]</ref></note></bibl>
@@ -90,7 +90,7 @@
         url="https://lb42.github.io/Pascoe/media/thumbnails/schoolsForGirls_1879_thumb.jpg"
        /></ref>;<date>1879</date><title>Schools for girls and colleges for women : a handbook of
        female education chiefly designed for the use of persons of the upper middle class : together
-       with some chapters on the higher employment of women </title><publisher>London : Hardwicke
+       with some chapters on the higher employment of women </title><publisher>London: Hardwicke
        and Bogue</publisher>
       <note type="reviews">[Reviews in <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0005">Basingstoke and North
@@ -98,7 +98,8 @@
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0006">Pall Mall Gazette,
         1979-06-07</ref>; <ref target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0009"
         >Examiner, 1879-10-18 p. 1352</ref>]</note>
-      <note type="reprint"> <ref target="https://doi.org/10.1017/CBO9781107338159">CUP reprint</ref>
+      <note type="reprint">
+       <ref target="https://doi.org/10.1017/CBO9781107338159">CUP reprint</ref>
       </note></bibl>
      <bibl><ref target="https://hdl.handle.net/2027/uc1.$b429270"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/dramaticNotes_1879_thumb.jpg"
@@ -120,10 +121,10 @@
       <note type="reviews">[Reviews: <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0001">Morning Post,
         1878-12-27</ref>; <ref target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0004"
-        >Boston Evening Transcript, 1879-01-18</ref>; 
-       <ref target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0023">The Athenaeum, 1879-04-12, no. 2685, pp. 483-484 (by Joseph Knight)</ref>
-       <ref
-        target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0007">The Era,
+        >Boston Evening Transcript, 1879-01-18</ref>; <ref
+        target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0023">The Athenaeum,
+        1879-04-12, no. 2685, pp. 483-484 (by Joseph Knight)</ref>
+       <ref target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0007">The Era,
         1879-12-21</ref>]</note>
      </bibl>
      <bibl><ref target="https://hdl.handle.net/2027/mdp.39015091112881"><graphic
@@ -134,8 +135,9 @@
       <note type="reviews"> [Reviews: <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0008">Literary Examiner,
         1880-01-10</ref>] </note>
-     <note type="transcript"><ref target="https://lb42.github.io/Pascoe/theDramaticList_1880.html">TEI transcript</ref></note></bibl>
-     
+      <note type="transcript"><ref target="https://lb42.github.io/Pascoe/theDramaticList_1880.html"
+        >TEI transcript</ref></note></bibl>
+
 
      <bibl><ref target="https://hdl.handle.net/2027/mdp.39015062727741"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/whereShall_1884_thumb.jpg"/></ref>
@@ -162,16 +164,18 @@
       <note type="reviews">[Reviews: <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0012">Illustrated London
         News, 1887-05-07</ref>]</note></bibl>
-     
+
      <bibl><ref target="https://hdl.handle.net/2027/oxu1.603584196"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1887_thumb.jpg"/></ref>
-      <date>1887</date><title>London of to-day : an illustrated handbook for the season / by Charles Eyre Pascoe. Third year of Publication.</title>
+      <date>1887</date><title>London of to-day : an illustrated handbook for the season / by Charles
+       Eyre Pascoe. Third year of Publication.</title>
       <publisher>London: Sampson, Low, Marston, Searle &amp; Rivington, 1887</publisher>
-     </bibl>
-     
+      <note type='reviews'> [Reviews: <ref
+        target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0029">St James's Budget, 1887-05-14, p. 25</ref>]</note></bibl>
+
      <!-- 1887 3rd ed Boston also exists in HT, not included here-->
-     
-     
+
+
      <bibl><ref target="https://hdl.handle.net/2027/nnc1.1000419826"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/joyousNeighbourhood_1887_thumb.jpg"
        /></ref>
@@ -189,8 +193,8 @@
       <note type="reviews">[Reviews: <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0013">Pall Mall Gazette,
         1888-05-17</ref>] </note></bibl>
-     
-     
+
+
      <bibl><ref target="https://hdl.handle.net/2027/uiug.30112098057190"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1889_thumb.jpg"/></ref>
       <date>1889</date><title>London of to-day; an illustrated handbook for the season 1889... The
@@ -268,7 +272,7 @@
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0014">Illustrated London News
         1890-11-15</ref>; <ref target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0015"
         >Times, 1890-10-30</ref>] </note></bibl>
-     
+
      <bibl><ref target="https://hdl.handle.net/2027/nyp.33433066656111"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1892_thumb.jpg"/></ref>
       <date>1892</date><title>London of today: an illustrated handbook for the season, 1892... The
@@ -276,15 +280,18 @@
        Illustrations.</title><publisher>London: Simpkin, Marshall, Hamilton, Kent, &amp; Co., Ld.,
        and all booksellers 1892</publisher>
      </bibl>
-   
+
      <bibl><ref target="https://hdl.handle.net/2027/oxu1.603584202"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1893_thumb.jpg"/></ref>
       <date>1893</date><title>London of To-day. An illustrated handbook for the season, 1893... The
        Ninth Annual Edition, revised and in large part re-written, and comprising additional
        Illustrations.</title>
-      <publisher>London: Simpkin, Marshall, Hamilton,  Kent &amp; Co., Ld.</publisher><publisher>Boston, U.S.A.: Roberts Brothers. 1893</publisher>
-      
-      <note type="reviews">The <title>Quarterly Review</title> vol 182 (1895) No. 363, art III, pp 59-82 : this impressive essay, though ostensibly referring to this title, along with  Booth's <title>Life and Labour of the People in London</title>, does not explicitly discuss either work.</note>
+      <publisher>London: Simpkin, Marshall, Hamilton, Kent &amp; Co.,
+       Ld.</publisher><publisher>Boston, U.S.A.: Roberts Brothers. 1893</publisher>
+      <note type="reviews">The <title>Quarterly Review</title> vol 182 (1895) No. 363, art III, pp
+       59-82 : this impressive essay, though ostensibly referring to this title, along with Booth's
+        <title>Life and Labour of the People in London</title>, does not explicitly discuss either
+       work.</note>
      </bibl>
      <bibl><ref target="https://hdl.handle.net/2027/mdp.39015063934189"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/victoriaHouse_1893_thumb.jpg"
@@ -295,31 +302,38 @@
      <bibl><ref target="https://hdl.handle.net/2027/oxu1.605460636"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonsWorlds_1893_thumb.jpg"
        /></ref><date>1893</date><title>London's world's fair for 1893 and Great Social, Political,
-       and Moral Exposition. The Spirit of the Age at a glance. Explained by Charles Eyre Pascoe
-       and Illustrated by Fred. Pegram</title><publisher>London: Sampson Low, Marston &amp; Company
+       and Moral Exposition. The Spirit of the Age at a glance. Explained by Charles Eyre Pascoe and
+       Illustrated by Fred. Pegram</title><publisher>London: Sampson Low, Marston &amp; Company
        Limited. </publisher><note type="reviews">[Reviews: <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0016">Daily Graphic,
         1893-05-01</ref>] </note></bibl>
-     
+
      <bibl><ref target="https://hdl.handle.net/2027/oxu1.603584203"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1894_thumb.jpg"/></ref>
-      <date>1894</date><title>London of today. An illustrated Annual Publication/ Edited by Charles Eyre Pascoe.
-       The Tenth Annual Edition.</title><publisher>Simpkin, Marshall, Hamilton,  Kent &amp; Co., Ld.</publisher><publisher>Boston, U.S.A.: Roberts Brothers.</publisher><publisher> Office:  1 Creed Lane, London, E.C. </publisher>
+      <date>1894</date><title>London of today. An illustrated Annual Publication/ Edited by Charles
+       Eyre Pascoe. The Tenth Annual Edition.</title><publisher>Simpkin, Marshall, Hamilton, Kent
+       &amp; Co., Ld.</publisher><publisher>Boston, U.S.A.: Roberts Brothers.</publisher><publisher>
+       Office of London of To-Day: 1 Creed Lane, London, E.C. </publisher>
      </bibl>
-     
+
      <bibl><ref target="https://hdl.handle.net/2027/oxu1.603584204"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1895_thumb.jpg"/></ref>
-      <date>1895</date><title>London of today. An illustrated record and a  handbook for the year 1895 / by Charles Eyre Pascoe
-       The eleventh annual edition in large part re-written, and comprising numerous additional illustrations.</title><publisher>London : Office of London of Today. 1 Creed Lane, Ludgate Hill, E.C. </publisher><publisher>Simpkin, Marshall, Hamilton,  Kent &amp; Co., Ld.</publisher><publisher>Boston: Roberts Brothers.</publisher>
+      <date>1895</date><title>London of today. An illustrated record and a handbook for the year
+       1895 / by Charles Eyre Pascoe The eleventh annual edition in large part re-written, and
+       comprising numerous additional illustrations.</title><publisher>London: Office of London of
+       To-Day. 1 Creed Lane, Ludgate Hill, E.C. </publisher><publisher>Simpkin, Marshall, Hamilton,
+       Kent &amp; Co., Ld.</publisher><publisher>Boston: Roberts Brothers.</publisher>
      </bibl>
-     
+
 
      <bibl><ref target="https://hdl.handle.net/2027/oxu1.603584205"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1896_thumb.jpg"/></ref>
-      <date>1896</date><title>London of today. An illustrated handbook for the year 1896 / by Charles Eyre Pascoe
-       </title>The Twelfth Annual Edition<publisher>London : Office of London of Today. 1 Creed Lane, Ludgate Hill, E.C. </publisher><publisher>Simpkin, Marshall, Hamilton,  Kent &amp; Co., Ld., and of all Booksellers.</publisher>
+      <date>1896</date><title>London of today. An illustrated handbook for the year 1896 / by
+       Charles Eyre Pascoe </title>The Twelfth Annual Edition<publisher>London: Office of London of
+       To-Day. 1 Creed Lane, Ludgate Hill, E.C. </publisher><publisher>Simpkin, Marshall, Hamilton,
+       Kent &amp; Co., Ld., and of all Booksellers.</publisher>
      </bibl>
-     
+
 
      <bibl><ref target="https://hdl.handle.net/2027/nyp.33433069355695"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1897_thumb.jpg"/></ref>
@@ -329,53 +343,60 @@
        To-Day," Hastings House, Norfolk Street, Strand, W.C.</publisher>
      </bibl>
      
-    <!-- <bibl><ref target=""><graphic
+     <!-- 1898 edition, also published by Bemrose, but not found.  <note type="reviews">[Reviews: <ref
+        target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0028"><title>Gentlewoman</title>, 21 May 1898, p.51</ref>]-->
+    
+     <!-- <bibl><ref target=""><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_xxxx_thumb.jpg"/></ref>
       <date>1898</date><title>London of today, handbook for the season xxxx / by Charles Eyre Pascoe
        [??th edition]</title><publisher>London : Simpkin, Marshall, Hamilton, Adams, Kent &amp; Co.,
         Ltd. Paternoster Row, E.C.</publisher>
      </bibl>-->
-     
+
 
      <bibl><ref target="https://hdl.handle.net/2027/oxu1.603584207"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1899_thumb.jpg"/></ref>
-      <date>1899</date><title>London of To-Day. An illustrated handbook for the season 1899 / by Charles Eyre Pascoe
-       The Fifteenth Yearly Edition</title><publisher>London : published at the office of "London of To-Day", Hastings House, Norfolk Street, Strand, W.C.</publisher>
+      <date>1899</date><title>London of To-Day. An illustrated handbook for the season 1899 / by
+       Charles Eyre Pascoe The Fifteenth Yearly Edition</title><publisher>London: published at the
+       office of "London of To-Day", Hastings House, Norfolk Street, Strand, W.C.</publisher>
      </bibl>
-     
+
 
      <bibl><ref target="https://hdl.handle.net/2027/uc2.ark:/13960/t9h41xj7d"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1902_thumb.jpg"/></ref>
       <date>1902</date><title>London of today, handbook for the season 1902 / by Charles Eyre Pascoe
-       [17th edition]</title><publisher>London : Simpkin, Marshall, Hamilton, Adams, Kent &amp; Co.,
+       [17th edition]</title><publisher>London: Simpkin, Marshall, Hamilton, Adams, Kent &amp; Co.,
        Ltd. Paternoster Row, E.C.</publisher>
      </bibl>
 
      <bibl><ref target="https://hdl.handle.net/2027/yale.39002001749234"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/pageantCeremony_1902_thumb.jpg"/></ref>
       <date>1902</date><title>The pageant &amp; ceremony of the coronation of Their Majesties King
-       Edward the Seventh and Queen Alexandra, by Charles Eyre Pascoe</title><publisher>New York
-      : D. Appleton &amp; company, 1902</publisher>
+       Edward the Seventh and Queen Alexandra, by Charles Eyre Pascoe</title><publisher>New York :
+       D. Appleton &amp; company, 1902</publisher>
       <note type="reviews">[Reviews: <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0091"><title>Boston Evening
-        Transcript?</title> 1902?</ref>; <ref
+         Transcript?</title> 1902?</ref>; <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0020">Gentlewoman and Modern
         Life, 1902-04-05</ref></note>
      </bibl>
-     
+
      <bibl><ref target="https://books.google.com/books?id=Mx2ViSqfNu4C">
        <!-- not available outside US --><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1903_thumb.jpg"/></ref>
-      <date>1903</date><title>London of today. / An annual of the Manners, Doings, and Changes of the Town / by Charles Eyre Pascoe</title> First of a New Series - 1903.<publisher>London : Jarrold &amp; Sons</publisher>
+      <date>1903</date><title>London of today. / An annual of the Manners, Doings, and Changes of
+       the Town / by Charles Eyre Pascoe</title> First of a New Series - 1903.<publisher>London :
+       Jarrold &amp; Sons</publisher>
      </bibl>
-     
-     
-     <bibl><ref target="https://books.google.com/books?id=C5kqaxein9UC"><!-- not available outside US --><graphic
+
+
+     <bibl><ref target="https://books.google.com/books?id=C5kqaxein9UC"
+        ><!-- not available outside US --><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1904_thumb.jpg"/></ref>
-      <date>1904</date><title>London of to-day/ Its season and its sights / by Charles Eyre Pascoe</title>
-      The Shilling Edition. <publisher>London: Jarrold &amp; Sons.</publisher>
+      <date>1904</date><title>London of to-day/ Its season and its sights / by Charles Eyre
+       Pascoe</title> The Shilling Edition. <publisher>London: Jarrold &amp; Sons.</publisher>
      </bibl>
-     
+
      <bibl><ref target="https://archive.org/details/nodowningstreet02pascgoog"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/tenDowning_1908_thumb.jpg"/></ref>
       <date>1908</date>
@@ -385,13 +406,15 @@
       <publisher>London: Duckworth &amp; Co </publisher>
       <note type="reviews">Announced in <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0022">New York Times 29 Jun
-        1907</ref></note>
+        1907</ref>; </note>
+       <note type="reviews">Reviewed by Harold Spender in <ref
+        target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0025">London Daily Chronicle, 4 Feb 1908, p.3 </ref>; </note>
      </bibl>
 
 
      <bibl><ref target="https://hdl.handle.net/2027/mdp.39015073249222"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/yorkPageant_1909_thumb.jpg"/></ref>
-      <date>1909</date><title>York historic pageant : souvenir</title><publisher>England: Ben
+      <date>1909</date><title>York historic pageant : souvenir</title><publisher>York: Ben
        Johnson, 1909</publisher>
      </bibl>
      <bibl><ref target="https://archive.org/details/31383025675458"><graphic
@@ -413,26 +436,31 @@
      <graphic url="https://lb42.github.io/Pascoe/media/pocketBkPreface.png"/>
     </figure>
     <listBibl>
-     <bibl><date>1887</date><title>A Summer-day's pilgrimage to Epping Forest.</title><publisher>London: Waterlow &amp; Sons</publisher> <ref target="https://www.abebooks.co.uk/first-edition/SUMMER-DAYS-PILGRIMAGE-EPPING-FOREST-PASCOE-Charles/30771823947/bd">Pamphlet available on AbeBooks</ref> </bibl>
+     <bibl><date>1887</date><title>A Summer-day's pilgrimage to Epping
+       Forest.</title><publisher>London: Waterlow &amp; Sons</publisher>
+      <ref
+       target="https://www.abebooks.co.uk/first-edition/SUMMER-DAYS-PILGRIMAGE-EPPING-FOREST-PASCOE-Charles/30771823947/bd"
+       >Pamphlet available on AbeBooks</ref>
+     </bibl>
      <bibl><date>1889</date><title>Folkestone of to-day : an illustrated book for visitors; season
        1889 / By Charles Eyre Pascoe. Illustrated by H. Tringham.</title><publisher>London :
        Hamilton, Adams, and Co. </publisher></bibl>
 
      <bibl><date>[1891]</date><title>Eastbourne, Hastings, and St. Leonard's : a pocket-book of
-       local information for visitors </title><publisher>London : Hazell, Watson and
+       local information for visitors </title><publisher>London: Hazell, Watson and
        Viney</publisher><ref
        target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/7dk4e1/alma990143216050107026"
        >Bodleian offsite storage</ref><ref>BL 10360.a.14</ref></bibl>
 
      <bibl><date>1897</date><title>The London Season. The monthly edition of “London of To-Day.” NS.
        vol. 3. no. 25-27. May-July 1897.</title><ref>BL P.P.2496.r.</ref></bibl>
-   
+
      <bibl><date>1898</date><title>Descriptive and pictorial account of Cromer, Sheringham,
-       Mundesley, and the Broads </title><publisher>London : "London of To-day"</publisher><ref
+       Mundesley, and the Broads </title><publisher>London: "London of To-day"</publisher><ref
        target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/7dk4e1/alma990137501410107026"
        >Bodleian closed stack</ref><!-- 16 pp --></bibl>
      <bibl><date>1898</date><title>Descriptive and pictorial account of Scarborough, Whitby, Filey
-       and Bridlington </title><publisher>London : "London of To-day"</publisher><ref
+       and Bridlington </title><publisher>London: "London of To-day"</publisher><ref
        target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/7dk4e1/alma990135709200107026"
        >Bodleian closed stack</ref></bibl>
      <bibl><date>1898</date><title>Holiday Leaflets Illustrated. Great Northern Series ... Written
@@ -440,8 +468,8 @@
        To-Day'</publisher><ref>BL 10347.e.48.</ref> (Contents: Three Days in the Dukeries; Cromer,
       Sheringham, Mondesley, and the Broads; A trip into Lincolnshire: Skegness, Mablethorpe,
       Sutton-on-Sea, and Woodhall Spa; An excursion into Yorkshire: Scarborough, Whitby, Filey, and
-      Bridlington; Some Northern Health Resorts: Harrogate, Ilkley, and Ben Rhydding) 
-      <note type="reprint">BL Historical Print Editions</note></bibl>
+      Bridlington; Some Northern Health Resorts: Harrogate, Ilkley, and Ben Rhydding) <note
+       type="reprint">BL Historical Print Editions</note></bibl>
 
      <bibl><date>1899</date><title>The Golf Grounds of the South-west: A Gossiping Summary of Their
        Various Attractions</title>
@@ -451,10 +479,11 @@
         1899-07-19</ref>] </note></bibl>
      <!-- found on google books -->
 
-     <bibl><date>1900</date><title>Twelfth night: a plea for an old custom / (written by Charles Eyre Pascoe.
-       Illustrated by John Jellicoe)</title><publisher>Fullers, Limited.</publisher>
-     <ref>NLS Maca 1526(3)</ref> </bibl>
-    
+     <bibl><date>1900</date><title>Twelfth night: a plea for an old custom / (written by Charles
+       Eyre Pascoe. Illustrated by John Jellicoe)</title><publisher>Fullers, Limited.</publisher>
+      <ref>NLS Maca 1526(3)</ref>
+     </bibl>
+
      <bibl><date>1909</date>
       <title>[Holiday Leaflets: 8 pp booklets ] </title><publisher>York: North Eastern Railway
        Company</publisher> Titles include: <title>A break of journey privilege : York</title> ;
@@ -480,13 +509,14 @@
      <bibl><date>1912</date><title>Lovely May and leafy June : a seasonable suggestion: to many
        thousands of admirers of merrie England </title><distributor>York : North Eastern Railway
        Company</distributor>
-      <publisher>(London and Tunbridge Wells) : Photochrome. Co. Ltd.</publisher><ref
+      <publisher>London and Tunbridge Wells: Photochrome. Co. Ltd.</publisher><ref
        target="https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/7dk4e1/alma990143215130107026"
        >Bodleian offsite storage</ref></bibl>
 
      <bibl><date>1912</date><title>Dickens in Yorkshire : being notes of a journey to the delightful
        village of Dotheboys, near Greta Bridge.</title>
-      <publisher>London : Sir Isaac Pitman &amp; Sons</publisher> <ref>BL 10369.r.4</ref>
+      <publisher>London: Sir Isaac Pitman &amp; Sons</publisher>
+      <ref>BL 10369.r.4</ref>
       <note type="reviews">[Review: <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0021">Weekly Examiner,
         1912-06-22</ref>]</note></bibl>
@@ -494,28 +524,34 @@
    </div>
    <div>
     <head>Periodical contributions</head>
-    <p>Pascoe was a prolific contributor to magazines, both American and English. Many
-     of these contributions
-     were subsequently recycled as book-length publications. A few titles listed here are not explicitly credited to Pascoe, though there
-     is good reason to believe he was their author. Many titles mentioned elsewhere are yet
-     to be traced. For those which have been found online, a link is provided below. </p>
+    <p>Pascoe was a prolific contributor to magazines, both American and English. Many of these
+     contributions were subsequently recycled as book-length publications. A few titles listed here
+     are not explicitly credited to Pascoe, though there is good reason to believe he was their
+     author. Many titles mentioned elsewhere are yet to be traced. For those which have been found
+     online, a link is provided below. </p>
     <listBibl>
-     <bibl>“An English By-Lane”, New York: <title>Appletons' journal</title>. New Series, Vol 1 (1876) pp <ref
-       target="https://babel.hathitrust.org/cgi/pt?id=njp.32101064472341&amp;seq=251">231</ref>-233 </bibl>
+     <bibl>“An English By-Lane”, New York: <title>Appletons' journal</title>. New Series, Vol 1
+      (1876) pp <ref target="https://babel.hathitrust.org/cgi/pt?id=njp.32101064472341&amp;seq=251"
+       >231</ref>-233 </bibl>
      <bibl> “In Memoriam: Temple Bar.” Illus. New York:<title> Appletons' journal</title>. vol 2
       (1877) pp <ref target="https://babel.hathitrust.org/cgi/pt?id=njp.32101064472473&amp;seq=87"
        >75</ref>-81</bibl>
-     <bibl> "Life on a canal boat". Unsigned report in <title>The Standard</title>, Sept 6, 1877 <ref target="https://lb42.github.io/Pascoe/CEP-canals.html">[TEI transcript]</ref></bibl>
-     <bibl> "The Canal Boats Act and the Bargemen". Unsigned report in <title>The Standard</title>, Sept 8, 1877 <ref target="https://lb42.github.io/Pascoe/CEP-canals.html">[TEI transcript]</ref></bibl>    
-     <bibl> "The Canal Boats Act and the Bargemen". Unsigned report in <title>The Standard</title>, Sept 11, 1877 <ref target="https://lb42.github.io/Pascoe/CEP-canals.html">[TEI transcript]</ref></bibl>    
-     <bibl> `Christ’s Hospital’ (“Public Schools of England” series) <title>The Leisure
-       hour</title> (Mar 1, 1879): issue 1418 pp <ref
+     <bibl> "Life on a canal boat". Unsigned report in <title>The Standard</title>, Sept 6, 1877
+       <ref target="https://lb42.github.io/Pascoe/CEP-canals.html">[TEI transcript]</ref></bibl>
+     <bibl> "The Canal Boats Act and the Bargemen". Unsigned report in <title>The Standard</title>,
+      Sept 8, 1877 <ref target="https://lb42.github.io/Pascoe/CEP-canals.html">[TEI
+       transcript]</ref></bibl>
+     <bibl> "The Canal Boats Act and the Bargemen". Unsigned report in <title>The Standard</title>,
+      Sept 11, 1877 <ref target="https://lb42.github.io/Pascoe/CEP-canals.html">[TEI
+       transcript]</ref></bibl>
+     <bibl> `Christ’s Hospital’ (“Public Schools of England” series) <title>The Leisure hour</title>
+      (Mar 1, 1879): issue 1418 pp <ref
        target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015018039621&amp;seq=149">135</ref>-140. </bibl>
      <bibl> `The Charterhouse School’ (“Public Schools of England” series) <title>The Leisure
        hour</title> (Jul 26, 1879): Issue 1439, pp <ref
        target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015018039621&amp;seq=495">471</ref>-475. </bibl>
-     <bibl> `St Paul’s School’ (“Public Schools of England” series) <title>The Leisure
-       hour</title> (Nov 29, 1879): Issue 1457, pp <ref
+     <bibl> `St Paul’s School’ (“Public Schools of England” series) <title>The Leisure hour</title>
+      (Nov 29, 1879): Issue 1457, pp <ref
        target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015018039621&amp;seq=795">763</ref>-766. </bibl>
      <bibl> `Merchant Taylors’ School (“Public Schools of England” series) <title>The Leisure
        hour</title>(Dec 13, 1879): Issue 1459, pp <ref
@@ -524,52 +560,59 @@
        <ref
        target="https://archive.org/details/sim_american-a-national-journal_1880-11-27_1_7/page/103/mode/1up"
        >103</ref>-104. </bibl>
-     <bibl>`The Story of the English magazines’ <title>Atlantic Monthly</title>, (Sept 1884), vol 64,  pp <ref
-       target="https://babel.hathitrust.org/cgi/pt?id=coo.31924079596957&amp;seq=370"
-      >364</ref>-374.</bibl>
-     <bibl> 1884 `Buying a house’ <title>The Leisure hour</title>, (May 1884), vol 33,  pp <ref
+     <bibl>`The Story of the English magazines’ <title>Atlantic Monthly</title>, (Sept 1884), vol
+      64, pp <ref target="https://babel.hathitrust.org/cgi/pt?id=coo.31924079596957&amp;seq=370"
+       >364</ref>-374.</bibl>
+     <bibl> 1884 `Buying a house’ <title>The Leisure hour</title>, (May 1884), vol 33, pp <ref
        target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683330&amp;seq=316">294</ref>-298.
       <!--[buyingHouse1884.pdf]--></bibl>
-     <bibl>`A Ramble round Windsor’ <title>The Leisure hour</title> (Apr 1887), vol 36, pp <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015006967072&amp;seq=261">251</ref>-260. 
-   </bibl>
+     <bibl>`A Ramble round Windsor’ <title>The Leisure hour</title> (Apr 1887), vol 36, pp <ref
+       target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015006967072&amp;seq=261">251</ref>-260. </bibl>
      <bibl>`The Queen’s Homes. Introductory - the Queen's Household’ <title>The Leisure hour</title>
-      (Jan 1888), vol 37,  pp. <ref
+      (Jan 1888), vol 37, pp. <ref
        target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=28">16</ref>-21. </bibl>
-     <bibl>`The Queen’s Homes. Kensington Palace’ <title>The Leisure hour</title> (Feb 1888), vol 37,  pp <ref
-       target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=127">115</ref>-123. </bibl>
+     <bibl>`The Queen’s Homes. Kensington Palace’ <title>The Leisure hour</title> (Feb 1888), vol
+      37, pp <ref target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=127"
+       >115</ref>-123. </bibl>
      <bibl>`The Queen’s Homes: Frogmore House’. Illus Victor Prout. <title>The Leisure Hour
-     </title>(Mar 1888), vol 37, pp <ref
+      </title>(Mar 1888), vol 37, pp <ref
        target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=179">167</ref>-174. </bibl>
-     <bibl>`The Queen’s Homes: Claremont’<title> The Leisure hour</title> (Apr 1888) , vol 37, pp. <ref
-       target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=249">237</ref>-241. </bibl>
-     <bibl>`The Queen’s Homes: Buckingham Palace’<title> The Leisure hour</title> (May 1888): , vol 37, pp <ref
-       target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=329">317</ref>-324. </bibl>
+     <bibl>`The Queen’s Homes: Claremont’<title> The Leisure hour</title> (Apr 1888) , vol 37, pp.
+       <ref target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=249"
+      >237</ref>-241. </bibl>
+     <bibl>`The Queen’s Homes: Buckingham Palace’<title> The Leisure hour</title> (May 1888): , vol
+      37, pp <ref target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=329"
+       >317</ref>-324. </bibl>
      <bibl>`Downing Street: the Official Residence of the First Lord of the Treasury. With
       Illustrations by Philip Norman. <title>The Leisure hour</title>, (Jun 1888) pp <ref
        target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=406">374</ref>-384. </bibl>
-     <bibl>`The Queen’s Homes: Windsor Castle’ <title>The Leisure hour</title> (Aug 1888), vol 37, pp <ref
-       target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=553">515</ref>-524. </bibl>
+     <bibl>`The Queen’s Homes: Windsor Castle’ <title>The Leisure hour</title> (Aug 1888), vol 37,
+      pp <ref target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=553"
+       >515</ref>-524. </bibl>
      <bibl>`The Queen’s Homes: Osborne’ <title>The Leisure hour </title>(Sep 1888), vol 37, pp <ref
        target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=638"
       >598</ref>-604.</bibl>
      <bibl>`The Queen’s Homes: Balmoral' <title>The Leisure hour</title> (Nov 1888), vol 37, pp <ref
        target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=799"
       >753</ref>-759.</bibl>
-     <bibl>`Falmouth: its past present, and future' <title>The Cornish Magazine</title>, 
-      (Sept 1898), vol 1, no 3,  pp <ref target="https://babel.hathitrust.org/cgi/pt?id=njp.32101073857433&amp;seq=222">210</ref> - 219. </bibl>
+     <bibl>`Falmouth: its past present, and future' <title>The Cornish Magazine</title>, (Sept
+      1898), vol 1, no 3, pp <ref
+       target="https://babel.hathitrust.org/cgi/pt?id=njp.32101073857433&amp;seq=222">210</ref> -
+      219. </bibl>
     </listBibl>
 
    </div>
    <div>
     <head>Newspaper correspondence</head>
     <p>Pascoe was also an indefatigable writer of letters to the editor. His letters suggest he held
-     solidly middle class views, intensely patriotic, but tinged with "liberalism". The following letters are <ref target="https://lb42.github.io/Pascoe/CEP-letters.html">available 
-     in transcribed form</ref>.</p>
+     solidly middle class views, intensely patriotic, but tinged with "liberalism". The following
+     letters are <ref target="https://lb42.github.io/Pascoe/CEP-letters.html">available in
+      transcribed form</ref>.</p>
     <listBibl>
      <bibl> 1867 "The Reception of the Belgians." letter to the editor <title>Royal Cornwall
        Gazette</title>. (May 16, 1867) Issue 3331, p. 6</bibl>
      <bibl> 1884 “American Payments to English Authors” letter in <title>The Athenaeum.</title> (Nov
-      8, 1884) Issue 2976,  p. 592  
+      8, 1884) Issue 2976, p. 592  
       <!--  [media/transcribed/pascoe1884AthPayments-1.png][media/transcribed/pascoe1884AthPayments-2.png]-->
      </bibl>
      <bibl> 1886 "The Theatres" [quotes a letter from CEP] <title>Daily News</title>, (June 7, 1886)
@@ -584,8 +627,8 @@
      <bibl>1896 “Is it fact or flourish of phrases?” letter to <title>Daily News</title>, (Oct 15
       1896) Issue 15772, p.3 <!--[media/1896-10-15-DailyNews_p3_Letter.png-->]</bibl>
      <!-- Daily News 26 apr 1898 letting each party to the quarrel fight ith light out without to bothered by cheers or hisses either sale of the area. Yours faithteliv, CHARLES EYRE PASCOE. An epitome of American Press opinion, such as Mr. -->
-     <bibl>1899 “The Transvaal Crisis” letters to <title>Daily News</title> Sep 30 1899,
-      p. 6 ; Dec 30 1899, p. 9; Jan 3, 1900, p. 3 </bibl>
+     <bibl>1899 “The Transvaal Crisis” letters to <title>Daily News</title> Sep 30 1899, p. 6 ; Dec
+      30 1899, p. 9; Jan 3, 1900, p. 3 </bibl>
      <!--     
       <bibl>1900 [	Mr Bryn Roberts blames the war on Britain's attempts to force reforms on President Kruger; Mr Charles Eyre Pascoe considers voting Tory for the first time. ] North Wales Chronicle, June 16 1900 "Mr CharlesEyrePascoe, a Radical, writes in the " Westminster Gazette: "-" If (among others) were convinced (not, however, by Mr Bryn... "</bibl>-->
     </listBibl>
@@ -599,8 +642,9 @@
        >Archives of the Royal Literary Fund 2739. World Microfilms. Nineteenth Century Collections
        Online</ref></bibl>
      <bibl><date>1912</date><title>Barking of Dogs and sudden Death</title> [Report of Pascoe's
-      death from the <title>Sutton and Cheam Advertiser,</title> 15 Nov 1912, page 5.] <note type="transcript"><ref
-       target="https://lb42.github.io/Pascoe/CEP-death.html">[TEI transcription]</ref></note>
+      death from the <title>Sutton and Cheam Advertiser,</title> 15 Nov 1912, page 5.] <note
+       type="transcript"><ref target="https://lb42.github.io/Pascoe/CEP-death.html">[TEI
+        transcription]</ref></note>
       <!--  "Death of Mr. Charles Eyre Pascoe". Westminster Gazette (Tuesday 12 November 1912): 14. 12 November 1912. --></bibl>
     </listBibl>
    </div>
@@ -671,7 +715,7 @@ Charles Eyre Pascoe resigned as editor of foreign intelligence on the Globe afte
       weeks—back in 1872 —it had printed a short story called “Love and Madness” by its staff editor
       Charles Eyre Pascoe. But that had been a mere one-shot.</quote>
      <bibl><title>Boston Globe</title>, 22 May 1959, po.22</bibl>
-   </cit>
+    </cit>
    </div>
   </body>
   <!-- Title
@@ -684,6 +728,6 @@ Publisher
 London: St. Bride Foundation Institute
 Source
 Colonial Legacies: Empire & Commonwealth Periodicals-->
-  
+
  </text>
 </TEI>
