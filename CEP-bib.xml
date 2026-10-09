@@ -193,11 +193,17 @@
       <note type="reviews">[Reviews: <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0013">Pall Mall Gazette,
         1888-05-17</ref>] </note></bibl>
-
+     
+     <bibl><ref target="https://hdl.handle.net/2027/oxu1.603584198"><graphic
+        url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1889_thumb.jpg"/></ref>
+      <date>1889</date><title>London of to-day; an illustrated handbook for the season 1889. The
+       Fifth Annual Edition, with numerous additional illustrations</title>
+      <publisher>London: Hamilton, Adams and co..</publisher>
+     </bibl>
 
      <bibl><ref target="https://hdl.handle.net/2027/uiug.30112098057190"><graphic
-        url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1889_thumb.jpg"/></ref>
-      <date>1889</date><title>London of to-day; an illustrated handbook for the season 1889... The
+        url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1889-US_thumb.jpg"/></ref>
+      <date>1889</date><title>London of to-day; an illustrated handbook for the season 1889. The
        Fifth Annual Edition, with numerous additional illustrations</title>
       <publisher>Boston: Roberts Brothers.</publisher>
      </bibl>
