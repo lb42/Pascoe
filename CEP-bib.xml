@@ -48,6 +48,7 @@
        connection with a visit to London. With an appendix. By Charles E. Pascoe</title><publisher>
        Boston: Lee and Shepard; Lee, Shepard, and Dillingham, 1874</publisher>
      </bibl>
+
      <bibl><ref target="https://books.google.co.uk/books?id=gF1f7cA8TbEC"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonDirectory_1876_thumb.jpg"/></ref>
       <date>1876</date><title>A London Guide and Directory for American travellers ... with a large
@@ -142,19 +143,20 @@
       <date>1884</date><title>Where shall I educate my son? A manual for parents of moderate means /
        By Charles Eyre Pascoe</title><publisher>London: Houlston and sons, 1884</publisher>
      </bibl>
-     <bibl><ref target="https://hdl.handle.net/2027/nyp.33433071387207"><graphic
+     <bibl xml:id='LT1885-US'><ref target="https://hdl.handle.net/2027/nyp.33433071387207">
+<graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1885_thumb.jpg"/></ref>
       <date>1885</date><title>London of to-day : an illustrated handbook for the
        season</title><publisher>Boston: Roberts Brothers</publisher>
      </bibl>
 
-     <bibl><ref target="http://purl.ox.ac.uk/uuid/ec567766037a46f6b0b9947db1ebff43"><graphic
+     <bibl xml:id="LT1885"><ref target="http://purl.ox.ac.uk/uuid/ec567766037a46f6b0b9947db1ebff43"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1885_SL_thumb.jpg"/></ref>
       <date>1885</date><title>London of to-day : an illustrated handbook for the season</title>
       <publisher>London: Sampson, Low, Marston, Searle &amp; Rivington, 1885</publisher>
      </bibl>
 
-     <bibl><ref target="http://purl.ox.ac.uk/uuid/7c47adf21c9744938dbf48fccfa8dbcc"><graphic
+     <bibl xml:id='LT1886'><ref target="http://purl.ox.ac.uk/uuid/7c47adf21c9744938dbf48fccfa8dbcc"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1886_thumb.jpg"/></ref>
       <date>1886</date><title>London of to-day : an illustrated handbook for the season.. Second
        Year of Publication, and Third Edition</title>
@@ -162,7 +164,15 @@
       <note type="reviews">[Reviews: <ref
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0012">Illustrated London
         News, 1887-05-07</ref>]</note></bibl>
-     <!-- 1887 3rd ed Boston -->
+
+
+    <bibl xml:id='LT1887'><ref target="https://dn760007.eu.archive.org/0/items/londonoftoday00pascuoft/londonoftoday00pascuoft.pdf"><graphic
+    url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1887_thumb.jpg"/></ref>
+    <date>1887</date><title>London of to-day : an illustrated handbook for the season 1887... Third Year of Publication</title>
+    </bibl>
+     <!-- the Hathitrust collection has an entry for this edition, but it
+     points to the 1889 edition  : the Internet Archive copy is from
+Robarts Library, U of Toronto.  -->
      <bibl><ref target="https://hdl.handle.net/2027/nnc1.1000419826"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/joyousNeighbourhood_1887_thumb.jpg"
        /></ref>
@@ -257,14 +267,14 @@
         target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0014">Illustrated London News
         1890-11-15</ref>; <ref target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0015"
         >Times, 1890-10-30</ref>] </note></bibl>
-     <bibl><ref target="https://hdl.handle.net/2027/nyp.33433066656111"><graphic
+     <bibl xml:id='LT1892'><ref target="https://hdl.handle.net/2027/nyp.33433066656111"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1892_thumb.jpg"/></ref>
       <date>1892</date><title>London of today: an illustrated handbook for the season, 1892... The
        Eighth Annual Edition, revised and in large part re-written, and comprising additional
        Illustrations.</title><publisher>London: Simpkin, Marshall, Hamilton, Kent, &amp; Co., Ld.,
        and all booksellers 1892</publisher>
      </bibl>
-     <bibl><ref target="https://hdl.handle.net/2027/msu.31293107610929"><graphic
+     <bibl xml:id='LT1893'><ref target="https://hdl.handle.net/2027/msu.31293107610929"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1893_thumb.jpg"/></ref>
       <date>1893</date><title>London of To-day. An illustrated handbook for the season, 1893... The
        Ninth Annual Edition, revised and in large part re-written, and comprising additional
@@ -288,7 +298,7 @@
 
 
 
-     <bibl><ref target="https://hdl.handle.net/2027/nyp.33433069355695"><graphic
+     <bibl xml:id='LT1897'><ref target="https://hdl.handle.net/2027/nyp.33433069355695"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1897_thumb.jpg"/></ref>
       <date>1897</date><title>London of To-day; an illustrated handbook for the season 1897. The
        Thirteenth Yearly Edition. Shilling souvenir edition, sixtieth year of the Queen's Reign.
@@ -297,7 +307,7 @@
      </bibl>
 
 
-     <bibl><ref target="https://hdl.handle.net/2027/uc2.ark:/13960/t9h41xj7d"><graphic
+     <bibl xml:id='LT1902'><ref target="https://hdl.handle.net/2027/uc2.ark:/13960/t9h41xj7d"><graphic
         url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1902_thumb.jpg"/></ref>
       <date>1902</date><title>London of today, handbook for the season 1902 / by Charles Eyre Pascoe
        [17th edition]</title><publisher>London : Simpkin, Marshall, Hamilton, Adams, Kent &amp; Co.,
@@ -441,12 +451,23 @@
     <listBibl>
      <bibl>“An English By-Lane”, New York: <title>Appletons' journal</title>. New Series, Vol 1 (1876) pp <ref
        target="https://babel.hathitrust.org/cgi/pt?id=njp.32101064472341&amp;seq=251">231</ref>-233 </bibl>
+
+    <bibl>"The London Royal Academy Exhibition. II", 
+ <title> The Art Journal </title>, New Series, Vol. 2 (1876), pp. 249-251
+    <ref target='https://www.jstor.org/stable/20568943'> on JSTOR</ref></bibl>
+
+
      <bibl> “In Memoriam: Temple Bar.” Illus. New York:<title> Appletons' journal</title>. vol 2
       (1877) pp <ref target="https://babel.hathitrust.org/cgi/pt?id=njp.32101064472473&amp;seq=87"
        >75</ref>-81</bibl>
      <bibl> "Life on a canal boat". Unsigned report in <title>The Standard</title>, Sept 6, 1877 <ref target="https://lb42.github.io/Pascoe/CEP-canals.html">[TEI transcript]</ref></bibl>
      <bibl> "The Canal Boats Act and the Bargemen". Unsigned report in <title>The Standard</title>, Sept 8, 1877 <ref target="https://lb42.github.io/Pascoe/CEP-canals.html">[TEI transcript]</ref></bibl>    
-     <bibl> "The Canal Boats Act and the Bargemen". Unsigned report in <title>The Standard</title>, Sept 11, 1877 <ref target="https://lb42.github.io/Pascoe/CEP-canals.html">[TEI transcript]</ref></bibl>    
+     <bibl> "The Canal Boats Act and the Bargemen". Unsigned report in <title>The Standard</title>, Sept 11, 1877 <ref target="https://lb42.github.io/Pascoe/CEP-canals.html">[TEI transcript]</ref></bibl> 
+
+    <bibl>"The Exhibition of the Royal Academy",
+<title> The Art Journal (1875-1887)</title>, New Series, Vol. 4 (1878), pp. 217-220
+  <ref target="https://www.jstor.org/stable/20569243"> on JSTOR</ref>
+</bibl>   
      <bibl> `Christ’s Hospital’ (“Public Schools of England” series) <title>The Leisure
        hour</title> (Mar 1, 1879): issue 1418 pp <ref
        target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015018039621&amp;seq=149">135</ref>-140. </bibl>
@@ -459,6 +480,10 @@
      <bibl> `Merchant Taylors’ School (“Public Schools of England” series) <title>The Leisure
        hour</title>(Dec 13, 1879): Issue 1459, pp <ref
        target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015018039621&amp;seq=828">796</ref>-800. </bibl>
+    <bibl>"The Royal Academy. II"
+<title> The Art Journal (1875-1887)</title>, New Series, Vol. 5 (1879), pp. 251-253
+   <ref target="https://www.jstor.org/stable/20569397"> on JSTOR</ref></bibl>
+
      <bibl>`"First Nights" at London Theatres' <title>The American</title> (27 November 1880), pp
        <ref
        target="https://archive.org/details/sim_american-a-national-journal_1880-11-27_1_7/page/103/mode/1up"
@@ -494,6 +519,9 @@
      <bibl>`The Queen’s Homes: Balmoral' <title>The Leisure hour</title> (Nov 1888), vol 37, pp <ref
        target="https://babel.hathitrust.org/cgi/pt?id=nyp.33433081683355&amp;seq=799"
       >753</ref>-759.</bibl>
+
+<bibl>`Some old London inns' <title>Black and White</title> 2 Sept 1893, pp 288-290</bibl>
+
      <bibl>`Falmouth: its past present, and future' <title>The Cornish Magazine</title>, 
       (Sept 1898), vol 1, no 3,  pp <ref target="https://babel.hathitrust.org/cgi/pt?id=njp.32101073857433&amp;seq=222">210</ref> - 219. </bibl>
     </listBibl>
