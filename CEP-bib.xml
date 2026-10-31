@@ -167,6 +167,7 @@ url="https://lb42.github.io/Pascoe/media/thumbnails/whereShall_1884_thumb.jpg"
 <date>1884</date><title>Where shall I educate my son? A manual for parents of
 moderate means / By Charles Eyre Pascoe</title><publisher>London: Houlston and
 sons, 1884</publisher>
+ <note type='reviews'>[Reviews: <ref target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R00101"><title> The Ladies' Treasury: An Illustrated Magazine of Entertaining Literature</title>, 1 Sept 1885 </ref></note>
 </bibl>
 <bibl xml:id="LT1885-US"><ref
 target="https://hdl.handle.net/2027/nyp.33433071387207">
@@ -195,8 +196,8 @@ url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1886_thumb.jpg"
 season.. Second Year of Publication, and Third Edition</title>
 <publisher>London: Sampson, Low, Marston, Searle &amp; Rivington,
 1886</publisher>
-<note type="reviews">[Reviews: <ref
-target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0012">Illustrated
+ <note type="reviews">[Reviews: <ref target=""><title>Punch, or the London Charivari</title>, 3 April 1886 vol 90, p.157; Ledger authors: Joseph Ashby-Sterry and F. C. Burnand </ref>; <ref
+target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R00121">Illustrated
 London News, 1887-05-07</ref>]</note></bibl>
 
 <bibl xml:id="LT1887-US"><ref
@@ -221,10 +222,14 @@ season / by Charles Eyre Pascoe. Third year of Publication.</title>
 1887</publisher>
 <note type="reviews"> [Reviews: <ref
 target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0029">St James's
-Budget, 1887-05-14, p. 25</ref>]</note></bibl>
+Budget, 1887-05-14, p. 25</ref>; 
+ 
+ ]</note>
+ 
+ 
+ </bibl>
 
 <!-- 1887 3rd ed Boston also exists in HT, not included here-->
-
 
 
 <bibl><ref target="https://hdl.handle.net/2027/nnc1.1000419826"><graphic
@@ -234,6 +239,8 @@ url="https://lb42.github.io/Pascoe/media/thumbnails/joyousNeighbourhood_1887_thu
 souvenir of the Tavistock Hotel, done in celebration of its hundredth
 anniversary / by Charles Eyre Pascoe. The illus. contributed by John
 Jellicoe</title><publisher>London: Chiswick Press, 1887</publisher>
+ <note type="reviews"> [Reviews: <ref target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R00122"
+   ><title>Punch</title>, 19 Nov 1887, vol 93, p. 233; Ledger author F.C. Burnand</ref>]</note>
 </bibl>
 
 <bibl><ref target="https://hdl.handle.net/2027/hvd.32044020618609"><graphic
