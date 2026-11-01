@@ -172,7 +172,7 @@ sons, 1884</publisher>
 <bibl xml:id="LT1885-US"><ref
 target="https://hdl.handle.net/2027/nyp.33433071387207">
 <graphic
-url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1885_thumb.jpg"
+url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1885-US_thumb.jpg"
 /></ref>
 <date>1885</date><title>London of to-day : an illustrated handbook for the
 season</title><publisher>Boston: Roberts Brothers</publisher>
@@ -180,7 +180,7 @@ season</title><publisher>Boston: Roberts Brothers</publisher>
 
 <bibl xml:id="LT1885"><ref
 target="http://purl.ox.ac.uk/uuid/ec567766037a46f6b0b9947db1ebff43"><graphic
-url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1885_SL_thumb.jpg"
+url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1885_thumb.jpg"
 /></ref>
 <date>1885</date><title>London of to-day : an illustrated handbook for the
 season</title>
@@ -203,7 +203,7 @@ London News, 1887-05-07</ref>]</note></bibl>
 <bibl xml:id="LT1887-US"><ref
 target="https://dn760007.eu.archive.org/0/items/londonoftoday00pascuoft/londonoftoday00pascuoft.pdf"
 ><graphic
-url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1887_thumb.jpg"
+url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1887-US_thumb.jpg"
 /></ref>
 <date>1887</date><title>London of to-day : an illustrated handbook for the
 season 1887... Third Year of Publication</title>
@@ -232,7 +232,7 @@ Budget, 1887-05-14, p. 25</ref>;
 <!-- 1887 3rd ed Boston also exists in HT, not included here-->
 
 
-<bibl><ref target="https://hdl.handle.net/2027/nnc1.1000419826"><graphic
+<bibl ><ref target="https://hdl.handle.net/2027/nnc1.1000419826"><graphic
 url="https://lb42.github.io/Pascoe/media/thumbnails/joyousNeighbourhood_1887_thumb.jpg"
 /></ref>
 <date>1887</date><title>"The joyous neighbourhood of Covent Garden" : a literary
@@ -243,8 +243,8 @@ Jellicoe</title><publisher>London: Chiswick Press, 1887</publisher>
    ><title>Punch</title>, 19 Nov 1887, vol 93, p. 233; Ledger author F.C. Burnand</ref>]</note>
 </bibl>
 
-<bibl><ref target="https://hdl.handle.net/2027/hvd.32044020618609"><graphic
-url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1888_thumb.jpg"
+ <bibl xml:id="LT1888-US"><ref target="https://hdl.handle.net/2027/hvd.32044020618609"><graphic
+url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1888-US_thumb.jpg"
 /></ref>
 <date>1888</date><title>London of to-day; an illustrated handbook for the
 season... The Fourth Annual Edition, completely revised, with numerous
@@ -254,7 +254,7 @@ additional illustrations</title>
 target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0013">Pall Mall
 Gazette, 1888-05-17</ref>] </note></bibl>
 
-<bibl><ref target="https://hdl.handle.net/2027/oxu1.603584198"><graphic
+ <bibl xml:id="LT1889"><ref target="https://hdl.handle.net/2027/oxu1.603584198"><graphic
 url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1889_thumb.jpg"
 /></ref>
 <date>1889</date><title>London of to-day; an illustrated handbook for the season
@@ -262,7 +262,7 @@ url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1889_thumb.jpg"
 <publisher>London: Hamilton, Adams and co..</publisher>
 </bibl>
 
-<bibl><ref target="https://hdl.handle.net/2027/uiug.30112098057190"><graphic
+<bibl xml:id='LT1889-US'><ref target="https://hdl.handle.net/2027/uiug.30112098057190"><graphic
 url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1889-US_thumb.jpg"
 /></ref>
 <date>1889</date><title>London of to-day; an illustrated handbook for the season
@@ -293,7 +293,7 @@ illustrations</title><publisher>London: Griffith and Farran ; E.P. Dutton,
 </bibl>
 
 
-<bibl><ref target="https://hdl.handle.net/2027/nnc1.0043691099"><graphic
+ <bibl xml:id="LT1890"><ref target="https://hdl.handle.net/2027/nnc1.0043691099"><graphic
 url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1890_thumb.jpg"
 /></ref>
 <date>1890</date><title>London of to-day. An illustrated handbook for the season
@@ -303,7 +303,7 @@ numerous additional illustrations.</title>
 booksellers. 1890</publisher>
 </bibl>
 
-<bibl><ref target="https://hdl.handle.net/2027/uc1.31970003956163"><graphic
+ <bibl xml:id="LT1891"><ref target="https://hdl.handle.net/2027/uc1.31970003956163"><graphic
 url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1891_thumb.jpg"
 /></ref>
 <date>1891</date><title>London of to-day an illustrated handbook for the season
@@ -393,7 +393,7 @@ Sampson Low, Marston &amp; Company Limited. </publisher><note type="reviews"
 target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0016">Daily
 Graphic, 1893-05-01</ref>] </note></bibl>
 
-<bibl><ref target="https://hdl.handle.net/2027/oxu1.603584203"><graphic
+ <bibl xml:id="LT1894"><ref target="https://hdl.handle.net/2027/oxu1.603584203"><graphic
 url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1894_thumb.jpg"
 /></ref>
 <date>1894</date><title>London of today. An illustrated Annual Publication/
@@ -404,7 +404,7 @@ Brothers.</publisher><publisher> Office of London of To-Day: 1 Creed Lane,
 London, E.C. </publisher>
 </bibl>
 
-<bibl><ref target="https://hdl.handle.net/2027/oxu1.603584204"><graphic
+ <bibl xml:id="LT1895"><ref target="https://hdl.handle.net/2027/oxu1.603584204"><graphic
 url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1895_thumb.jpg"
 /></ref>
 <date>1895</date><title>London of today. An illustrated record and a handbook
@@ -416,7 +416,7 @@ Kent &amp; Co., Ld.</publisher><publisher>Boston: Roberts Brothers.</publisher>
 </bibl>
 
 
-<bibl><ref target="https://hdl.handle.net/2027/oxu1.603584205"><graphic
+ <bibl xml:id="LT1896"><ref target="https://hdl.handle.net/2027/oxu1.603584205"><graphic
 url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1896_thumb.jpg"
 /></ref>
 <date>1896</date><title>London of today. An illustrated handbook for the year
@@ -449,7 +449,7 @@ W.C.</publisher>
      </bibl>-->
 
 
-<bibl><ref target="https://hdl.handle.net/2027/oxu1.603584207"><graphic
+ <bibl xml:id="LT1899"><ref target="https://hdl.handle.net/2027/oxu1.603584207"><graphic
 url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1899_thumb.jpg"
 /></ref>
 <date>1899</date><title>London of To-Day. An illustrated handbook for the season
@@ -481,7 +481,7 @@ target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0020">Gentlewoman
 and Modern Life, 1902-04-05</ref></note>
 </bibl>
 
-<bibl><ref target="https://books.google.com/books?id=Mx2ViSqfNu4C">
+ <bibl xml:id="LT1903"><ref target="https://books.google.com/books?id=Mx2ViSqfNu4C">
 <!-- not available outside US --><graphic
 url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1903_thumb.jpg"
 /></ref>
@@ -491,7 +491,7 @@ Changes of the Town / by Charles Eyre Pascoe</title> First of a New Series -
 </bibl>
 
 
-<bibl><ref target="https://books.google.com/books?id=C5kqaxein9UC"
+ <bibl xml:id="LT1904"><ref target="https://books.google.com/books?id=C5kqaxein9UC"
 ><!-- not available outside US --><graphic
 url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1904_thumb.jpg"
 /></ref>
