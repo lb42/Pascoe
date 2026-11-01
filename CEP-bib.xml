@@ -172,7 +172,7 @@ sons, 1884</publisher>
 <bibl xml:id="LT1885-US"><ref
 target="https://hdl.handle.net/2027/nyp.33433071387207">
 <graphic
-url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1885-US_thumb.jpg"
+url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1885-US_thumb.png"
 /></ref>
 <date>1885</date><title>London of to-day : an illustrated handbook for the
 season</title><publisher>Boston: Roberts Brothers</publisher>
@@ -198,7 +198,8 @@ season.. Second Year of Publication, and Third Edition</title>
 1886</publisher>
  <note type="reviews">[Reviews: <ref target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R00121"><title>Punch, or the London Charivari</title>, 3 April 1886 vol 90, p.157; Ledger authors: Joseph Ashby-Sterry and F. C. Burnand </ref>; <ref
 target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0012">Illustrated
-London News, 1887-05-07</ref>]</note></bibl>
+   London News, 1887-05-07</ref>; <ref
+    target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0011"><title>Pall Mall Gazette</title>, Apr 30 1886. Issue 6590, p.5</ref>]</note></bibl>
 
 <bibl xml:id="LT1887-US"><ref
 target="https://dn760007.eu.archive.org/0/items/londonoftoday00pascuoft/londonoftoday00pascuoft.pdf"
@@ -221,7 +222,7 @@ season / by Charles Eyre Pascoe. Third year of Publication.</title>
 <publisher>London: Sampson, Low, Marston, Searle &amp; Rivington,
 1887</publisher>
 <note type="reviews"> [Reviews: <ref
-target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0029">St James's
+target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R00123">St James's
 Budget, 1887-05-14, p. 25</ref>; 
  
  ]</note>
@@ -252,7 +253,8 @@ additional illustrations</title>
 <publisher>Boston: Roberts Brothers.</publisher>
 <note type="reviews">[Reviews: <ref
 target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0013">Pall Mall
-Gazette, 1888-05-17</ref>] </note></bibl>
+  Gazette, 1888-05-17</ref>; <ref
+   target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R00130"><title>The Spectator</title>, 2 June 1888, page 76</ref>] </note></bibl>
 
  <bibl xml:id="LT1889"><ref target="https://hdl.handle.net/2027/oxu1.603584198"><graphic
 url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1889_thumb.jpg"
@@ -312,6 +314,8 @@ comprising numerous additional illustrations.</title>
 <publisher>London: Simpkin, Marshall, Hamilton, Kent, &amp; Co., Ld., and all
 booksellers. 1891</publisher>
 <!-- so title page. Hathi records say publisher is Boston: Roberts-->
+  <note type="reviews">[Reviews : <ref
+    target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0027"><title>Society Times</title>, 4 April 1891, p. 11 </ref></note>
 </bibl>
 
 <bibl><ref target="https://hdl.handle.net/2027/oxu1.604250689"><graphic
@@ -424,6 +428,8 @@ url="https://lb42.github.io/Pascoe/media/thumbnails/londonToday_1896_thumb.jpg"
 Edition<publisher>London: Office of London of To-Day. 1 Creed Lane, Ludgate
 Hill, E.C. </publisher><publisher>Simpkin, Marshall, Hamilton, Kent &amp; Co.,
 Ld., and of all Booksellers.</publisher>
+  <note type="reviews">[Reviews: <ref
+    target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0017"><title>The Daily Graphic</title> Sat, 13 Jun 1896</ref>] </note>
 </bibl>
 
 
@@ -582,7 +588,10 @@ Mondesley, and the Broads; A trip into Lincolnshire: Skegness, Mablethorpe,
 Sutton-on-Sea, and Woodhall Spa; An excursion into Yorkshire: Scarborough,
 Whitby, Filey, and Bridlington; Some Northern Health Resorts: Harrogate, Ilkley,
 and Ben Rhydding) <note type="reprint">BL Historical Print
-Editions</note></bibl>
+Editions</note>
+ <note type="reviews">[Review : <ref
+   target="https://lb42.github.io/Pascoe/CEP-reviews-static.html#R0026">   
+   <title>Railway News</title>, 20 May 1905, p. 19 </ref>] </note></bibl>
 
 <bibl><date>1899</date><title>The Golf Grounds of the South-west: A Gossiping
 Summary of Their Various Attractions</title>
@@ -790,11 +799,11 @@ Post</title>, (25 May 1896) p. 7
 <bibl>1896 “Is it fact or flourish of phrases?” letter to <title>Daily
 News</title>, (Oct 15 1896) Issue 15772, p.3
 <!--[media/1896-10-15-DailyNews_p3_Letter.png-->]</bibl>
-<!-- Daily News 26 apr 1898 letting each party to the quarrel fight ith light out without to bothered by cheers or hisses either sale of the area. Yours faithteliv, CHARLES EYRE PASCOE. An epitome of American Press opinion, such as Mr. -->
+<!-- Daily News 26 apr 1898 letting each party to the quarrel fight with light out without to bothered by cheers or hisses either sale of the area. Yours faithteliv, CHARLES EYRE PASCOE. An epitome of American Press opinion, such as Mr. -->
 <bibl>1899 “The Transvaal Crisis” letters to <title>Daily News</title> Sep 30
 1899, p. 6 ; Dec 30 1899, p. 9; Jan 3, 1900, p. 3 </bibl>
 <!--     
-      <bibl>1900 [	Mr Bryn Roberts blames the war on Britain's attempts to force reforms on President Kruger; Mr Charles Eyre Pascoe considers voting Tory for the first time. ] North Wales Chronicle, June 16 1900 "Mr CharlesEyrePascoe, a Radical, writes in the " Westminster Gazette: "-" If (among others) were convinced (not, however, by Mr Bryn... "</bibl>-->
+      <bibl>1900 [	Mr Bryn Roberts blames the war on Britain's attempts to force reforms on President Kruger; Mr Charles Eyre Pascoe considers voting Tory for the first time. ] North Wales Chronicle, June 16 1900 "Mr CharlesEyrePascoe, a Radical, writes in the " Westminster Gazette: "-" I (among others) were convinced (not, however, by Mr Bryn... "</bibl>-->
 </listBibl>
 </div>
 <div>
